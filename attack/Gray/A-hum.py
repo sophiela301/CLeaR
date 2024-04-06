@@ -14,7 +14,7 @@ from recommender.GMF import GMF
 import logging
 
 
-class A_ra():
+class A_hum():
     def __init__(self, arg, data):
         """
         :param arg: parameter configuration
